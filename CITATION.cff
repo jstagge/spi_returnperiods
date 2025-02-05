@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-name: Stagge
+  given-names: James H.
+  orcid: https://orcid.org/0000-0002-3667-2904
+title: "spi_returnperiods"
+version: v1.1.1  Version associated with manuscript submission
+doi: 10.5281/zenodo.8331358
+date-released: 2025-02-05
+url: "https://github.com/jstagge/spi_returnperiods"
